@@ -22,7 +22,7 @@
       "partner": {
         "firstName": "Vỳ",
         "lastName": "Lê Thị",
-        "gender": "female",
+        "gender": "female"
       },
       "children": [
         {
@@ -55,7 +55,7 @@
               "partner": {
                 "firstName": "Mai",
                 "lastName": "Vương Thị",
-                "gender": "female",
+                "gender": "female"
               },
               "children": [
                 {
@@ -75,7 +75,7 @@
                   "lastName": "Nguyễn Vương An",
                   "gender": "female",
                   "children": []
-                },
+                }
               ]
             },
             {
@@ -85,14 +85,9 @@
               "partner": {
                 "firstName": "Ưng",
                 "lastName": "Nguyễn Hữu",
-                "gender": "male",
+                "gender": "male"
               },
-              "children": [
-                {
-                "firstName": "Trinh",
-                "lastName": "Nguyễn Thị Thu",
-                "gender": "female"
-              ]
+              "children": []
             },
             {
               "firstName": "Tứ",
@@ -105,7 +100,7 @@
               "lastName": "Nguyễn",
               "gender": "male",
               "children": []
-            },
+            }
           ]
         },
         {
@@ -136,7 +131,7 @@
               "lastName": "Nguyễn Thị Bích",
               "gender": "female",
               "children": []
-            },
+            }
           ]
         },
         {
