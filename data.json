@@ -1,0 +1,156 @@
+{
+  "firstName": "Unknown",
+  "lastName": "Unknown",
+  "children": [
+    {
+      "firstName": "Hồng",
+      "lastName": "Nguyễn",
+      "gender": "female",
+      "children": []
+    },
+    {
+      "firstName": "Bạch",
+      "lastName": "Nguyễn",
+      "gender": "female",
+      "children": []
+    },
+    {
+      "firstName": "Ấn",
+      "lastName": "Nguyễn",
+      "gender": "male",
+      "partner": {
+        "firstName": "Vỳ",
+        "lastName": "Lê Thị",
+        "gender": "female",
+      },
+      "children": [
+        {
+          "firstName": "Tâm",
+          "lastName": "Nguyễn",
+          "gender": "male",
+          "children": []
+        },
+        {
+          "firstName": "Định",
+          "lastName": "Nguyễn",
+          "gender": "male",
+          "children": []
+        },
+        {
+          "firstName": "Phúc",
+          "lastName": "Nguyễn",
+          "gender": "male",
+          "children": []
+        },
+        {
+          "firstName": "Hạnh",
+          "lastName": "Nguyễn",
+          "gender": "male",
+          "children": [
+            {
+              "firstName": "Tuần",
+              "lastName": "Nguyễn",
+              "gender": "male",
+              "partner": {
+                "firstName": "Mai",
+                "lastName": "Vương Thị",
+                "gender": "female",
+              },
+              "children": [
+                {
+                  "firstName": "Khang",
+                  "lastName": "Nguyễn Vương",
+                  "gender": "male",
+                  "children": []
+                },
+                {
+                  "firstName": "Minh",
+                  "lastName": "Nguyễn Vương Đức",
+                  "gender": "male",
+                  "children": []
+                },
+                {
+                  "firstName": "Khuê",
+                  "lastName": "Nguyễn Vương An",
+                  "gender": "female",
+                  "children": []
+                },
+              ]
+            },
+            {
+              "firstName": "Trinh",
+              "lastName": "Nguyễn Thị Thu",
+              "gender": "female",
+              "partner": {
+                "firstName": "Ưng",
+                "lastName": "Nguyễn Hữu",
+                "gender": "male",
+              },
+              "children": [
+                {
+                "firstName": "Trinh",
+                "lastName": "Nguyễn Thị Thu",
+                "gender": "female"
+              ]
+            },
+            {
+              "firstName": "Tứ",
+              "lastName": "Nguyễn",
+              "gender": "male",
+              "children": []
+            },
+            {
+              "firstName": "Tú",
+              "lastName": "Nguyễn",
+              "gender": "male",
+              "children": []
+            },
+          ]
+        },
+        {
+          "firstName": "Đức",
+          "lastName": "Nguyễn",
+          "gender": "female",
+          "children": []
+        },
+        {
+          "firstName": "Phú",
+          "lastName": "Nguyễn",
+          "gender": "male",
+          "children": [
+            {
+              "firstName": "Vũ",
+              "lastName": "Nguyễn Hoài",
+              "gender": "male",
+              "children": []
+            },
+            {
+              "firstName": "Vương",
+              "lastName": "Nguyễn Hoài",
+              "gender": "male",
+              "children": []
+            },
+            {
+              "firstName": "Ngọc",
+              "lastName": "Nguyễn Thị Bích",
+              "gender": "female",
+              "children": []
+            },
+          ]
+        },
+        {
+          "firstName": "Quý",
+          "lastName": "Nguyễn",
+          "gender": "male",
+          "children": []
+        },
+        {
+          "firstName": "Vinh",
+          "lastName": "Nguyễn Thị",
+          "gender": "female",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
