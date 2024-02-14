@@ -87,7 +87,20 @@
                 "lastName": "Nguyễn Hữu",
                 "gender": "male"
               },
-              "children": []
+              "children": [
+                {
+                  "firstName": "Nghi",
+                  "lastName": "Nguyễn Ngọc Phương",
+                  "gender": "female",
+                  "children": []
+                },
+                {
+                  "firstName": "Nhi",
+                  "lastName": "Nguyễn Ngọc Phương",
+                  "gender": "female",
+                  "children": []
+                }
+              ]
             },
             {
               "firstName": "Tứ",
