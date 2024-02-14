@@ -1,4 +1,3 @@
-@startjson
 {
   "firstName": "Unknown",
   "lastName": "Unknown",
@@ -151,7 +150,57 @@
           "firstName": "Quý",
           "lastName": "Nguyễn",
           "gender": "male",
-          "children": []
+          "partner": {
+            "firstName": "Hoa",
+            "lastName": "Lê Thị",
+            "gender": "male"
+          },
+          "children": [
+            {
+              "firstName": "Hoàng",
+              "lastName": "Nguyễn",
+              "gender": "male",
+              "children": [
+                {
+                  "firstName": "Minh",
+                  "lastName": "Nguyễn Trần Thiên",
+                  "gender": "male",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "firstName": "Vân",
+              "lastName": "Nguyễn Thị Hồng",
+              "gender": "male",
+              "children": [
+                {
+                  "firstName": "Yến",
+                  "lastName": "Nguyễn Thị Hồng",
+                  "gender": "female",
+                  "children": []
+                },
+                {
+                  "firstName": "Hưng",
+                  "lastName": "Nguyễn Viết Gia",
+                  "gender": "male",
+                  "children": []
+                },
+                {
+                  "firstName": "Khang",
+                  "lastName": "Nguyễn Viết Gia",
+                  "gender": "male",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "firstName": "Tiến",
+              "lastName": "Nguyễn",
+              "gender": "male",
+              "children": []
+            }
+          ]
         },
         {
           "firstName": "Vinh",
@@ -163,4 +212,3 @@
     }
   ]
 }
-@endjson
