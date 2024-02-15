@@ -44,6 +44,12 @@
           "children": []
         },
         {
+          "firstName": "Đức",
+          "lastName": "Nguyễn Thị",
+          "gender": "female",
+          "children": []
+        },
+        {
           "firstName": "Hạnh",
           "lastName": "Nguyễn",
           "gender": "male",
@@ -115,12 +121,6 @@
               "children": []
             }
           ]
-        },
-        {
-          "firstName": "Đức",
-          "lastName": "Nguyễn",
-          "gender": "female",
-          "children": []
         },
         {
           "firstName": "Phú",
